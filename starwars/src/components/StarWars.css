@@ -1,0 +1,15 @@
+.character-card {
+    background: white;
+    margin: 10px;
+    width: 300px;
+}
+
+.character-info {
+    margin: 10px;
+}
+
+.cast-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
