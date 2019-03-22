@@ -33,7 +33,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1 className="Header">React Wars</h1>
+        <h1 className="Header">A long time ago in a galaxy far, far away...</h1>
         <StarwarsCharacters 
           starwarsChars={this.state.starwarsChars}
         />
